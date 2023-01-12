@@ -4,7 +4,11 @@
 - 🎯 Maximum focus in Python
 - 🌱 Learning a bit every day
 
-
+    <div align="center">
+      <a href="https://github.com/Glemnt">          
+      <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Glemnt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Glemnt&layout=compact&langs_count=7&theme=github_dark"/>
+    </div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Glemnt-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
