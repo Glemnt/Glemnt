@@ -1,6 +1,7 @@
 ### Hi, my name is Guilherme
 
 - 🌐 I am currently a systems analysis and development student
+- 🎯 Maximum focus in Python
 - 🌱 Learning a bit every day
 
 <div align="center">
