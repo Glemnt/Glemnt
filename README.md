@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
-</div>
-
 ### Hi, my name is Guilherme
 
 - 🌐 I am currently a systems analysis and development student
